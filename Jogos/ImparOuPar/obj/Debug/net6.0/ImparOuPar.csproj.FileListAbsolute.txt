@@ -1,0 +1,15 @@
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\ImparOuPar\bin\Debug\net6.0\ImparOuPar.exe
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\ImparOuPar\bin\Debug\net6.0\ImparOuPar.deps.json
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\ImparOuPar\bin\Debug\net6.0\ImparOuPar.runtimeconfig.json
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\ImparOuPar\bin\Debug\net6.0\ImparOuPar.dll
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\ImparOuPar\bin\Debug\net6.0\ImparOuPar.pdb
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\ImparOuPar\obj\Debug\net6.0\ImparOuPar.csproj.AssemblyReference.cache
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\ImparOuPar\obj\Debug\net6.0\ImparOuPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\ImparOuPar\obj\Debug\net6.0\ImparOuPar.AssemblyInfoInputs.cache
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\ImparOuPar\obj\Debug\net6.0\ImparOuPar.AssemblyInfo.cs
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\ImparOuPar\obj\Debug\net6.0\ImparOuPar.csproj.CoreCompileInputs.cache
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\ImparOuPar\obj\Debug\net6.0\ImparOuPar.dll
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\ImparOuPar\obj\Debug\net6.0\refint\ImparOuPar.dll
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\ImparOuPar\obj\Debug\net6.0\ImparOuPar.pdb
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\ImparOuPar\obj\Debug\net6.0\ImparOuPar.genruntimeconfig.cache
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\ImparOuPar\obj\Debug\net6.0\ref\ImparOuPar.dll

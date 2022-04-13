@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MaiorGanha": {
+      "commandName": "Project"
+    },
+    "Aposta": {
+      "commandName": "Project"
+    }
+  }
+}

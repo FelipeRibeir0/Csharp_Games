@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ChuteCerto": {
+      "commandName": "Project"
+    },
+    "Chute": {
+      "commandName": "Project"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\ChuteCerto\bin\Debug\net6.0\ChuteCerto.exe
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\ChuteCerto\bin\Debug\net6.0\ChuteCerto.deps.json
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\ChuteCerto\bin\Debug\net6.0\ChuteCerto.runtimeconfig.json
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\ChuteCerto\bin\Debug\net6.0\ChuteCerto.dll
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\ChuteCerto\bin\Debug\net6.0\ChuteCerto.pdb
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\ChuteCerto\obj\Debug\net6.0\ChuteCerto.csproj.AssemblyReference.cache
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\ChuteCerto\obj\Debug\net6.0\ChuteCerto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\ChuteCerto\obj\Debug\net6.0\ChuteCerto.AssemblyInfoInputs.cache
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\ChuteCerto\obj\Debug\net6.0\ChuteCerto.AssemblyInfo.cs
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\ChuteCerto\obj\Debug\net6.0\ChuteCerto.csproj.CoreCompileInputs.cache
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\ChuteCerto\obj\Debug\net6.0\ChuteCerto.dll
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\ChuteCerto\obj\Debug\net6.0\refint\ChuteCerto.dll
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\ChuteCerto\obj\Debug\net6.0\ChuteCerto.pdb
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\ChuteCerto\obj\Debug\net6.0\ChuteCerto.genruntimeconfig.cache
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\ChuteCerto\obj\Debug\net6.0\ref\ChuteCerto.dll

@@ -1,0 +1,15 @@
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\MaiorGanha\bin\Debug\net6.0\MaiorGanha.exe
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\MaiorGanha\bin\Debug\net6.0\MaiorGanha.deps.json
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\MaiorGanha\bin\Debug\net6.0\MaiorGanha.runtimeconfig.json
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\MaiorGanha\bin\Debug\net6.0\MaiorGanha.dll
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\MaiorGanha\bin\Debug\net6.0\MaiorGanha.pdb
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\MaiorGanha\obj\Debug\net6.0\MaiorGanha.csproj.AssemblyReference.cache
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\MaiorGanha\obj\Debug\net6.0\MaiorGanha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\MaiorGanha\obj\Debug\net6.0\MaiorGanha.AssemblyInfoInputs.cache
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\MaiorGanha\obj\Debug\net6.0\MaiorGanha.AssemblyInfo.cs
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\MaiorGanha\obj\Debug\net6.0\MaiorGanha.csproj.CoreCompileInputs.cache
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\MaiorGanha\obj\Debug\net6.0\MaiorGanha.dll
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\MaiorGanha\obj\Debug\net6.0\refint\MaiorGanha.dll
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\MaiorGanha\obj\Debug\net6.0\MaiorGanha.pdb
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\MaiorGanha\obj\Debug\net6.0\MaiorGanha.genruntimeconfig.cache
+C:\Felipe\Cursos\Programação\Workspaces\C#\Jogos\MaiorGanha\obj\Debug\net6.0\ref\MaiorGanha.dll
